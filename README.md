@@ -11,4 +11,5 @@
 - 🏷️ **Practical Git Workflow**: Apply common Git commands in a structured learning environment.
 
 This repository is perfect for developers who want to build a strong foundation in Git and version control. 🚀
-Created By **Stephen Oloo** as a fulfilment of an assignment project | Gomycode - 2025
+
+- Created By **Stephen Oloo** as a fulfilment of an assignment project | Gomycode - 2025
